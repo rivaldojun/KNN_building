@@ -10,6 +10,7 @@ Ce projet est une implémentation simple de l'algorithme K-Nearest Neighbors (KN
 - Prise en charge de la classification pour des données d'entraînement et de test.
 - Personnalisation du nombre de voisins (K) pour l'algorithme KNN.
 - Utilisation d'une métrique de distance simple (par exemple, distance euclidienne).
+![knn](https://github.com/rivaldojun/KNN_building/assets/104903354/c338252f-7be6-4584-b789-6e39ef44b4e6)
 
 ## Comment utiliser le projet
 
